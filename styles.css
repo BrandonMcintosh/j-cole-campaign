@@ -1,0 +1,21 @@
+.title{
+    color:white;
+ background-color:red;
+ border: 10px solid black;
+}
+
+
+body{
+    background: url("https://texturex.com/wp-content/uploads/2018/03/black-leather-texture-dark-embossed-fabric-free-stock-photo-wallpaper-800x1067.jpg");
+}
+
+
+img{
+    width:200px;
+    height:auto;
+    border: 20px groove red;
+}
+
+
+
+
